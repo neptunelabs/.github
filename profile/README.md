@@ -1,7 +1,7 @@
 <p dir="auto">
   <a href="https://www.neptunelabs.com/" rel="nofollow">
     <img
-      src="https://raw.githubusercontent.com/neptunelabs/.github/main/assets/organisation-hero.jpg"
+      src="https://raw.githubusercontent.com/neptunelabs/.github/main/assets/organisation-hero.png"
       alt="WELCOME TO NEPTUNELABS!"
     >
   </a>
