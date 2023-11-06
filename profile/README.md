@@ -33,4 +33,4 @@ We provide libraries for building your own tools around our products:
 Contributions are welcome, and they are greatly appreciated!
 Feel free to help us improve the documentation, report or fix bugs, propose new features!
 
-### If you need help, reach us using the [Contact form](https://www.neptunelabs.com/support/contact-us/). 🙋
+[Contact form](https://www.neptunelabs.com/support/contact-us/). 🙋
