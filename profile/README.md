@@ -13,9 +13,8 @@ Welcome to the [NeptuneLabs](https://www.neptunelabs/) Open Source integrations.
 
 ## Documentation 📚
 
-If you are just starting with NeptuneLabs FSI Server products,
-or looking for specific information,
-here's a few links to some important resources:
+If you are just getting started with NeptuneLabs FSI Server products or
+are looking for specific information, here are some links to important resources:
 
 - [Documentation](https://docs.neptunelabs.com/)
 - [Server API reference](https://docs.neptunelabs.com/api)
@@ -31,6 +30,7 @@ We provide libraries for building your own tools around our products:
 
 ## Contribute ❤️
 
-Contributions are welcome, and they are greatly appreciated! Feel free to help us improve the documentation, report or fix bugs, propose new features!
+Contributions are welcome, and they are greatly appreciated!
+Feel free to help us improve the documentation, report or fix bugs, propose new features!
 
-###### 🙋 If you need help, reach us using the [Contact form](https://www.neptunelabs.com/support/contact-us/).
+### If you need help, reach us using the [Contact form](https://www.neptunelabs.com/support/contact-us/). 🙋
