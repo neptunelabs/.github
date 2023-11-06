@@ -2,12 +2,12 @@
   <a href="https://www.neptunelabs.com/" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/neptunelabs/.github/main/assets/organisation-hero.png"
-      alt="WELCOME TO NEPTUNELABS!"
+      alt="SCALE.ENCODE.DELIVER. Enterprise Web Imaging"
     >
   </a>
 </p>
 
-Welcome to the [NeptuneLabs](https://www.neptunelabs/) Open Source integrations.
+Welcome to the [NeptuneLabs](https://www.neptunelabs.com/) Open Source integrations.
 
 
 
