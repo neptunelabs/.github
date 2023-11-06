@@ -1,3 +1,4 @@
-# Hetzner Cloud Organization
+# NeptuneLabs Organization
 
-This repository contains files related to the [`hetznercloud` organization on GitHub](https://github.com/hetznercloud).
+This repository contains files related to the
+[`neptunelabs` organization on GitHub](https://github.com/neptunelabs).
